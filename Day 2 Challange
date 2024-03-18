@@ -1,0 +1,10 @@
+in this day we are going to create simple variable and we are trying to change the value multiple times...
+//let fristName:string ="Mehwish";
+console.log(firstName)
+//let secondName:string ="Sana";
+console.log(secondName)
+//let othername:string ="Farah";
+console.log(othername)
+
+*Now we are trying to change value with same variable
+at this time we are just retype the the Value of variable inwhich is in "" just replace the value and go to command promptto check the variable change sucessfully
