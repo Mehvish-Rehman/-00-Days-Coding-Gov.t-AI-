@@ -1,0 +1,21 @@
+# Today we are going to practice more than one value in same variable like the name of famous person and also the famous quote which he said.
+
+//console.log('Bilgate, Once Said,"Time Is Money"'.);
+let famous_person:string ="Bilgate";
+let message:string ='${famous_person} Once said, "Time is Money."'
+console.log(message)
+
+//console.log('Albert Einstine, Once Said, "Time Is Money"'.);
+let famous_person:string ="Albert Einstine:;
+let message:string =${famous_person} Once said, "Time Is Money."'
+console.log(message)
+
+//console.log('Allama Iqbal, Once Said, "Elm Hasil Karo goya Cheen jana paray.:');
+let famous_person:string ="Allama Iqbal";
+let message:string ='${famous_person} Once Said, "Elm Hasil Karo Goya Cheen jana paray."'
+console.log(message)
+
+//console.log('Albert Einstine, Once said, "Time is money."');
+let famous_person:string ="Albert Einstine";
+let message:string = '${famous_person} once said,"Time is Money."'
+console.log(message)
